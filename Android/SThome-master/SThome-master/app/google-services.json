@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1016735063808",
+    "firebase_url": "https://evuyari.firebaseio.com",
+    "project_id": "evuyari",
+    "storage_bucket": "evuyari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016735063808:android:1f5aeae626e9e16a",
+        "android_client_info": {
+          "package_name": "com.example.sthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016735063808-31h18tla43j3g7mhrgf1sa94pulnbip3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sthome",
+            "certificate_hash": "f36787345cbb258e029d100814b82a71b81bd2cd"
+          }
+        },
+        {
+          "client_id": "1016735063808-dbff1nrpvpelgog5b0tan8djflhtc9pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdKH-jVka6sGXkhmd_UKN0WjjgtpDGeVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016735063808-dbff1nrpvpelgog5b0tan8djflhtc9pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
